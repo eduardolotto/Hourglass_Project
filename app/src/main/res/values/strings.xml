@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HourglassProject</string>
+    <string name="start">Start</string>
+    <string name="reset">Reset</string>
+    <string name="channel_name">Hourglass notification</string>
+    <string name="channel_description">Hourglass terminated</string>
+    <string name="hg_desc">Graphic representation of the hourglass</string>
+    <string name="up_desc">Graphic representation of the sand level in the upper bulb</string>
+    <string name="bottom_desc">Graphic representation of the sand level in the bottom bulb</string>
+</resources>
